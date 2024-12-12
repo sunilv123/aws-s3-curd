@@ -36,3 +36,5 @@ Select request body as binary.
 Then using the key received in step1 can generate the pre-signed url and download.localhost:8080/api/s3/download-url?key=a0921596f930eb8_screenshot2.png
 
 Can delete the file using delete endpoint.localhost:8080/api/s3/delete?objectKey=a0921596f930eb8_screenshot2.png
+
+#Check the screenshots available in screenshots-postman folder.
